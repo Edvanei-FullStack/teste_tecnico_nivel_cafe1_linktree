@@ -9,6 +9,11 @@ body {
     background: linear-gradient(to left top, #ffa500, #0070FF);
 }
 
+img{
+    border-radius: 300px;
+    
+}
+
 #cabecalho_desktop {
     display: flex;
     justify-content: center;
