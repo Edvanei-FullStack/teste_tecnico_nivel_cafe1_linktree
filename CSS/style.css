@@ -8,3 +8,22 @@ body {
     height: 100vh;
     background: linear-gradient(to left top, #ffa500, #0070FF);
 }
+
+#cabecalho_desktop {
+    display: flex;
+    justify-content: center;
+}
+
+#menu_links_desktop {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+}
+
+#lista_links_desktop {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
