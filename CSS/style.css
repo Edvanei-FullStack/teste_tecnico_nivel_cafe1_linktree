@@ -3,3 +3,8 @@
     padding: 0;
     box-sizing: 0;
 }
+
+body {
+    height: 100vh;
+    background: linear-gradient(to left top, #ffa500, #0070FF);
+}
